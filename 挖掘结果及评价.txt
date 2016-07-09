@@ -1,0 +1,190 @@
+**************補竃撞訓�郤�式凪屶隔業**************
+frozenset({'0'})
+support:0.6175478065241845
+frozenset({'1'})
+support:0.38245219347581555
+frozenset({'S Port'})
+support:0.7244094488188977
+frozenset({'1 PClass'})
+support:0.2407199100112486
+frozenset({'female'})
+support:0.35095613048368957
+frozenset({'male'})
+support:0.6490438695163104
+frozenset({'C Port'})
+support:0.1889763779527559
+frozenset({'3 PClass'})
+support:0.5523059617547806
+frozenset({'2 PClass'})
+support:0.20697412823397077
+frozenset({'1', 'female'})
+support:0.25984251968503935
+frozenset({'1', '1 PClass'})
+support:0.15073115860517436
+frozenset({'3 PClass', 'female'})
+support:0.16197975253093364
+frozenset({'1', 'male'})
+support:0.12260967379077616
+frozenset({'2 PClass', 'male'})
+support:0.12148481439820022
+frozenset({'S Port', '3 PClass'})
+support:0.39707536557930256
+frozenset({'S Port', '1 PClass'})
+support:0.14285714285714285
+frozenset({'male', 'C Port'})
+support:0.10686164229471316
+frozenset({'S Port', 'male'})
+support:0.49606299212598426
+frozenset({'S Port', '2 PClass'})
+support:0.1844769403824522
+frozenset({'S Port', '0'})
+support:0.48031496062992124
+frozenset({'S Port', 'female'})
+support:0.2283464566929134
+frozenset({'1 PClass', 'female'})
+support:0.10348706411698538
+frozenset({'3 PClass', 'male'})
+support:0.39032620922384703
+frozenset({'2 PClass', '0'})
+support:0.10911136107986502
+frozenset({'1', 'S Port'})
+support:0.2440944881889764
+frozenset({'3 PClass', '0'})
+support:0.4184476940382452
+frozenset({'1 PClass', 'male'})
+support:0.1372328458942632
+frozenset({'1', 'C Port'})
+support:0.1046119235095613
+frozenset({'male', '0'})
+support:0.5264341957255343
+frozenset({'1', '3 PClass'})
+support:0.13385826771653545
+frozenset({'1', '1 PClass', 'female'})
+support:0.10011248593925759
+frozenset({'S Port', 'male', '3 PClass'})
+support:0.2980877390326209
+frozenset({'2 PClass', 'male', '0'})
+support:0.10236220472440945
+frozenset({'S Port', '2 PClass', 'male'})
+support:0.10911136107986502
+frozenset({'1', 'S Port', 'female'})
+support:0.15748031496062992
+frozenset({'S Port', 'male', '0'})
+support:0.4094488188976378
+frozenset({'S Port', '3 PClass', '0'})
+support:0.3217097862767154
+frozenset({'3 PClass', 'male', '0'})
+support:0.3374578177727784
+frozenset({'0', 'S Port', 'male', '3 PClass'})
+support:0.25984251968503935
+*******************肇茅庇噫号夸******************
+**************補竃購選号夸式凪崔佚業**************
+*************喘Lift峺炎斤号夸序佩得勺*************
+[frozenset({'male'})]！！！！>('S Port',)
+confidence: 0.7642980935875217
+lift: 1.055063672669731
+[frozenset({'2 PClass'})]！！！！>('S Port',)
+confidence: 0.8913043478260869
+lift: 1.2303875236294894
+[frozenset({'0'})]！！！！>('S Port',)
+confidence: 0.7777777777777777
+lift: 1.073671497584541
+[frozenset({'3 PClass'})]！！！！>('0',)
+confidence: 0.7576374745417516
+lift: 1.2268482966623262
+[frozenset({'0'})]！！！！>('male',)
+confidence: 0.8524590163934426
+lift: 1.313407392675512
+[frozenset({'male'})]！！！！>('0',)
+confidence: 0.8110918544194108
+lift: 1.313407392675512
+[frozenset({'1 PClass', 'female'})]！！！！>('1',)
+confidence: 0.9673913043478259
+lift: 2.5294437340153446
+[frozenset({'3 PClass', 'male'})]！！！！>('S Port',)
+confidence: 0.7636887608069164
+lift: 1.0542225285051998
+[frozenset({'S Port', '3 PClass'})]！！！！>('male',)
+confidence: 0.7507082152974505
+lift: 1.1566370942797808
+[frozenset({'2 PClass', '0'})]！！！！>('male',)
+confidence: 0.9381443298969072
+lift: 1.4454251460629992
+[frozenset({'2 PClass', 'male'})]！！！！>('0',)
+confidence: 0.8425925925925927
+lift: 1.3644167847264388
+[frozenset({'2 PClass', 'male'})]！！！！>('S Port',)
+confidence: 0.8981481481481483
+lift: 1.2398349436392915
+[frozenset({'male', '0'})]！！！！>('S Port',)
+confidence: 0.7777777777777778
+lift: 1.073671497584541
+[frozenset({'0'})]！！！！>('male',)
+confidence: 0.8524590163934426
+lift: 1.313407392675512
+[frozenset({'male'})]！！！！>('0',)
+confidence: 0.8110918544194108
+lift: 1.313407392675512
+[frozenset({'S Port', '0'})]！！！！>('male',)
+confidence: 0.8524590163934427
+lift: 1.3134073926755123
+[frozenset({'0'})]！！！！>('S Port',)
+confidence: 0.7777777777777777
+lift: 1.073671497584541
+[frozenset({'S Port', 'male'})]！！！！>('0',)
+confidence: 0.8253968253968254
+lift: 1.3365715442218173
+[frozenset({'male'})]！！！！>('S Port',)
+confidence: 0.7642980935875217
+lift: 1.055063672669731
+[frozenset({'3 PClass', '0'})]！！！！>('S Port',)
+confidence: 0.7688172043010753
+lift: 1.06130201028518
+[frozenset({'3 PClass'})]！！！！>('0',)
+confidence: 0.7576374745417516
+lift: 1.2268482966623262
+[frozenset({'S Port', '3 PClass'})]！！！！>('0',)
+confidence: 0.8101983002832862
+lift: 1.311960453464192
+[frozenset({'3 PClass', '0'})]！！！！>('male',)
+confidence: 0.8064516129032258
+lift: 1.2425225023760273
+[frozenset({'3 PClass'})]！！！！>('0',)
+confidence: 0.7576374745417516
+lift: 1.2268482966623262
+[frozenset({'3 PClass', 'male'})]！！！！>('0',)
+confidence: 0.8645533141210374
+lift: 1.3999779531031007
+[frozenset({'S Port', 'male', '3 PClass'})]！！！！>('0',)
+confidence: 0.8716981132075471
+lift: 1.4115475822249715
+[frozenset({'3 PClass', 'male'})]！！！！>('S Port',)
+confidence: 0.7636887608069164
+lift: 1.0542225285051998
+[frozenset({'S Port', '3 PClass'})]！！！！>('male',)
+confidence: 0.7507082152974505
+lift: 1.1566370942797808
+[frozenset({'3 PClass', 'male', '0'})]！！！！>('S Port',)
+confidence: 0.77
+lift: 1.0629347826086957
+[frozenset({'3 PClass', '0'})]！！！！>('male',)
+confidence: 0.8064516129032258
+lift: 1.2425225023760273
+[frozenset({'3 PClass'})]！！！！>('0',)
+confidence: 0.7576374745417516
+lift: 1.2268482966623262
+[frozenset({'3 PClass', 'male'})]！！！！>('0',)
+confidence: 0.8645533141210374
+lift: 1.3999779531031007
+[frozenset({'S Port', '3 PClass', '0'})]！！！！>('male',)
+confidence: 0.8076923076923076
+lift: 1.2444340754566057
+[frozenset({'3 PClass', '0'})]！！！！>('S Port',)
+confidence: 0.7688172043010753
+lift: 1.06130201028518
+[frozenset({'3 PClass'})]！！！！>('0',)
+confidence: 0.7576374745417516
+lift: 1.2268482966623262
+[frozenset({'S Port', '3 PClass'})]！！！！>('0',)
+confidence: 0.8101983002832862
+lift: 1.311960453464192
